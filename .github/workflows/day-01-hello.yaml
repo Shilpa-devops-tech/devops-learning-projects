@@ -1,0 +1,21 @@
+name: Day 01 - Hello World
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Print greeting
+        run: echo "Hello from GitHub Actions!"
+      
+      - name: Show environment
+        run: |
+          echo "Repository: ${{ github.repository }}"
+          echo "Branch: ${{ github.ref_name }}"
+          echo "Commit: ${{ github.sha }}"
+          echo "Triggered by: ${{ github.actor }}"
+          echo "Event: ${{ github.event_name }}"
