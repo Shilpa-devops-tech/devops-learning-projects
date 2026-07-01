@@ -290,19 +290,3 @@
 - [ ] Stephane Maarek — AWS Solutions Architect Associate
 - [ ] Mumshad Mannambeth — CKA with Practice Tests
 
----
-
-## PROGRESS SCORE (update weekly)
-
-| Area | Week 1 | Week 2 | Week 3 | Week 4 |
-|------|--------|--------|--------|--------|
-| GitHub Actions | 6/10 | | | |
-| Kubernetes | 4/10 | | | |
-| Helm | 3/10 | | | |
-| FluxCD/GitOps | 3/10 | | | |
-| Security | 4/10 | | | |
-| Observability | 3/10 | | | |
-| SAP BTP | 3/10 | | | |
-| Shell Scripting | 5/10 | | | |
-| Communication | 5/10 | | | |
-| Leadership | 4/10 | | | |
